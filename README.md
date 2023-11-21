@@ -25,7 +25,6 @@ The selected attributes are:
 - Naive Bayes
 - Random Forest Classifier
 - KNN
-- 
 
 ## License
 
