@@ -20,7 +20,7 @@ The selected attributes are:
 
 
 ## Models
-
+All the models have been written from scratch
 - Basic Perceptron
 - Naive Bayes
 - Random Forest Classifier
